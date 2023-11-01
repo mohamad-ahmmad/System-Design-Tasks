@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertNotificationService", "AlertNotificationService\AlertNotificationService.csproj", "{CA8BB47D-6ABF-44C4-8C4F-323F81C0261A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA8BB47D-6ABF-44C4-8C4F-323F81C0261A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8BB47D-6ABF-44C4-8C4F-323F81C0261A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8BB47D-6ABF-44C4-8C4F-323F81C0261A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8BB47D-6ABF-44C4-8C4F-323F81C0261A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB8ADC0-F60C-433E-ABD2-458181C7E02B}
+	EndGlobalSection
+EndGlobal
